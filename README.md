@@ -337,5 +337,5 @@ With this CI/CD pipeline, you can ensure that your Django Notes Application is c
 
 7 ) Output of The Project ( All features of it working properly ) :
 
-![Screenshot 2024-09-24 121659](https://github.com/user-attachments/assets/347fa289-b7b6-4753-843e-02b0029e99cc)
+![Screenshot 2024-09-24 121659](https://github.com/user-attachments/assets/347fa289-b7b6-4753-843e-02b0029e99cc)  
 
